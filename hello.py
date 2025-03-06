@@ -20,7 +20,7 @@
 # sunny = False
 
 # if umbrella and sunny:
-    print("You think it's going to rain.")
+    # print("You think it's going to rain.")
 # elif not umbrella and sunny:
    # print("You think you don't need an umbrella.")
 # elif umbrella and not sunny:
